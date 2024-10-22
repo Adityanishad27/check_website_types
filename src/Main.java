@@ -30,7 +30,7 @@ public class Main {
                 System.out.println("This is Department of Defence website");
 
             } else {
-                System.out.println("please Enter Valid website");
+                System.out.println("please Enter Valid websites");
 
             }
 i++;
